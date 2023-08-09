@@ -886,8 +886,10 @@ Happy Coding! -->
 
 <td align="center"> 284.</td>
 <td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/cpp-projects/ATM Machine">ATM Machine</a></td>
-<td align="center"> 285.</td>
+<td align="center"> 286.</td>
 <td align="center"><a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Python%20Projects/Speech_Recognition_ChatBot">Speech Recognition ChatBot</a>
+<td align="center"> 287.</td>
+<td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/cpp-projects/Tower of Hanoi Animation">Tower of Hanoi Animation</a></td>
 
   
   </tr>
